@@ -1,0 +1,2 @@
+SUCCESS  # creation
+SUCCESS  # only one is empty

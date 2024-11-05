@@ -1,0 +1,3 @@
+GT4500,2,0,0,0
+TORPEDO,SINGLE # setup so the primary is fired previously
+TORPEDO,SINGLE # se want to fire secondary but it's empty, so we fire primary
