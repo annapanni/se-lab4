@@ -1,0 +1,4 @@
+SUCCESS  # creation
+SUCCESS  # both
+FAIL    # no more torpedos
+FAIL    # no more torpedos
