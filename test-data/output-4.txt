@@ -1,0 +1,3 @@
+SUCCESS  # creation
+FAIL        # primary faulty torpedo 
+SUCCESS    # secondary torpedo didnt fire during the previous firing
